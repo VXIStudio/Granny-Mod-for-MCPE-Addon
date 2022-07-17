@@ -2,7 +2,7 @@
   "Config": [
     {
       "interval": 5,
-      "backup": "applovin",
+      "backup": "unity",
       "status": true,
       "link": "https://google.com/",
       "contact": "https://google.com/",
