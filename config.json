@@ -10,7 +10,7 @@
       "addon": false,
       "maps": false,
       "texture": false,
-      "skin": false,
+      "skin": true,
       "more": false,
       
       "admob_open_ads": "ca-app-pub-3940256099942544/3419835294",
